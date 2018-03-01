@@ -1,12 +1,12 @@
-dockpack.base_utils
+![Build Status](https://api.travis-ci.org/dockpack/base_utils.svg)
 =========
 
-Utilities - These utilities are not present in the minimal install.
+**dockpack.base_utils** - These utilities are not present in the minimal install.
 
 Requirements
 ------------
 
-This role was built for  RedHat systems like RHEL 6, Centos 7.
+This ansible-role was built for  RedHat systems like RHEL 6, Centos 7.
 
 Role Variables
 --------------
