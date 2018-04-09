@@ -13,4 +13,3 @@ base_utils:
   - telnet
   - traceroute
   - wget
-  - jq
