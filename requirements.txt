@@ -1,6 +1,6 @@
 # these python extensions are for testing
 #six==1.11.0
-Jinja2==2.9.6
+Jinja2==2.11.3
 pytest==3.3.2
 paramiko==2.4.1
 ansible==2.3.2
